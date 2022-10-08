@@ -1,0 +1,3 @@
+Note in GitHub
+
+The repository needs to be set to public when using it from RStudio
